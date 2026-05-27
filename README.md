@@ -10,7 +10,7 @@ Live at: **[vaibhav2005sh.github.io](https://vaibhav2005sh.github.io)**
 ## 👤 About
 
 Personal portfolio of **Vaibhav Sharma**, a B.Tech student specializing in
-Artificial Intelligence and Data Science at MITR, Alwar, Rajasthan.
+Artificial Intelligence and Data Science at MITRC, Alwar, Rajasthan.
 Expected graduation: June 2026 · GPA: 8.3/10
 
 ---
